@@ -2,33 +2,17 @@
 
 **I'm João**, a 20-year-old Computer and Software Engineering student at the **University of Aveiro** 🇵🇹
 
-I’m passionate about technology, problem-solving, and building solutions that make a difference. Currently focused on expanding my development skills and exploring new tech areas.
-
----
-
 ## 🚀 About Me
 
-* 🎓 Studying **Computer and Informatics Engineering**
+* 🎓 Studying **Computer and Software Engineering**
 * 💡 Curious learner who enjoys tackling challenges
 * 🧩 Interested in software development, systems, and innovative tech
 * 🔍 Always excited to work on new projects and collaborate
-
----
-
-## 🔧 Tech Stack
-
-> Add or modify the icons according to your skills!
-
-* Programming: JavaScript, Python, C
-* Frameworks & Tools: React, Node.js, Git
-* Databases: MySQL, MongoDB
-* Currently learning: [Add what you're learning]
+* 💭 Looking forward to pursue a Masters in Data Science
 
 ---
 
 ## 📊 GitHub Stats
-
-
 
 <div>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jcardoso19&show_icons=true&hide_border=true&count_private=true" />
@@ -37,14 +21,29 @@ I’m passionate about technology, problem-solving, and building solutions that 
 
 ---
 
+## 🏅 Certifications & Trainings
+
+Data CoLAB – Sistemas de Gestão de Bases de Dados (2025) Training focused on database design, data modeling, and relational database management systems.
+
+Data CoLAB – Python Avançado (2025) Advanced Python training covering automation, data processing, and software development best practices.
+
+
+---
+
 ## 🌐 Connect With Me
-
-> Replace the links with your own
-
-* 📸 Instagram: [Your Instagram](#)
-* 💼 LinkedIn: [Your LinkedIn](#)
+* 📸 Instagram: [(https://www.instagram.com/j.cardosoo_)](#)
+* 💼 LinkedIn: [[Your LinkedIn](https://www.linkedin.com/in/joão-cardoso)](#)
 * 🐦 Twitter/X: [Your X](#)
+* 🎮 Discord: cardoso19
 * ✉️ Email: [[jfrmcardoso@gmail.com](mailto:your@email.com)]
+
+## 📅 Learning Journey
+
+| Year | Milestone                                                                      |
+| ---- | ------------------------------------------------------------------------------ |
+| 2024 | Started my Computer and Informatics Engineering degree at University of Aveiro |
+| 2025 | Began publishing academic and personal projects on GitHub                      |
+| 2026 | *Future goal:* Start a tech internship to expand real‑world experience         |
 
 
 ✨ *Thanks for visiting my profile! Feel free to connect or explore my repositories!*
