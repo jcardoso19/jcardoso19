@@ -54,9 +54,9 @@ Data CoLAB – Python Avançado (2025) Advanced Python training covering automat
 
 | Year | Milestone                                                                      |
 | ---- | ------------------------------------------------------------------------------ |
-| 2024 | Started my Computer and Informatics Engineering degree at University of Aveiro |
-| 2025 | Began publishing academic and personal projects on GitHub                      |
-| 2026 | *Future goal:* Start a tech internship to expand real‑world experience         |
+| 23/24 | Started my Computer and Informatics Engineering degree at University of Aveiro |
+| 24/25 | Finishing my University Degree                   |
+| Future | *Future goal:* Start a tech internship; Start Masters in Data Science        |
 
 
 ✨ *Thanks for visiting my profile! Feel free to connect or explore my repositories!*
