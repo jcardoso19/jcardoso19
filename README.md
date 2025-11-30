@@ -6,9 +6,8 @@
 
 * 🎓 Studying **Computer and Software Engineering**
 * 💡 Curious learner who enjoys tackling challenges
-* 🧩 Interested in software development, systems, and innovative tech
-* 🔍 Always excited to work on new projects and collaborate
-* 💭 Looking forward to pursue a Masters in Data Science
+* 🧩 Interested in software development, data science, AI and ML
+* 💭 Looking forward to pursue a Masters in Data Science/AI
 
 ---
 
